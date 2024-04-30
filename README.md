@@ -1,12 +1,12 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
-CID_423_Athena_Commando_F_Painter, 1500
-EID_BasketballV2, 500
+ CID_083_Athena_Commando_F_Tactical, 1000
+BID_287_AztecFemaleEclipse, 300
+Pickaxe_ID_294_CandyCane, 500
 na
 na
 na
 CID_586_Athena_Commando_F_PunkDevil, 1200
 Pickaxe_ID_138_Gnome, 800
 CID_170_Athena_Commando_F_Luchador, 1200
-Glider_ID_110_TeriyakiFish, 800
-Wrap_182_NeonAnimal, 500
-EID_TaiChi, 500
+Glider_ID_196_CycloneMale, 669
+Wrap_105_Cube, 500
+Pickaxe_ID_376_FNCS, 500
